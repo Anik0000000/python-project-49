@@ -6,9 +6,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-try:
-    user_answer = int(input("Your answer: "))
-except ValueError:
-    print("Please enter a number!")
-    continue
