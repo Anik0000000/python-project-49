@@ -1,7 +1,8 @@
-import random
 import math
+import random
 
 RULES = 'Find the greatest common divisor of given numbers.'
+
 
 def generate_round():
     a = random.randint(1, 100)
