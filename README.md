@@ -22,7 +22,7 @@ brain-calc
 brain-gcd
 ```
 
-[![asciicast](https://asciinema.org/a/Gy7LNMKlndZAoJIiVGNs8wCAx)](https://asciinema.org/a/Gy7LNMKlndZAoJIiVGNs8wCAx)
+[![asciicast](https://asciinema.org/a/Gy7LNMKlndZAoJIiVGNs8wCAx)](https://asciinema.org/a/Gy7LNMKlndZAoJIiVGNs8wCAx)git add
 
 ## Игра «Прогрессия» (brain-progression)
 
